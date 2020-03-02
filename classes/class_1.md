@@ -1,4 +1,4 @@
-## Food
+## FoodOrder
 
 _Attributes_
 1. isHot (boolean)
@@ -8,6 +8,6 @@ _Attributes_
 
 _Methods_
 1. cook (changes isHot to true)
-2. placeOrder (changes the contents of the dishType array)
+2. changeOrder (changes the contents of the dishType array)
 3. orderDessert (changes price to a higher number)
 4. leaveReview (changes the food's rating)
