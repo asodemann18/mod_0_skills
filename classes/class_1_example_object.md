@@ -1,4 +1,4 @@
-## Turkey Club
+## TurkeyClub
 
 _Attributes_
 1. isHot: false
