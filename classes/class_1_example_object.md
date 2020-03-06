@@ -9,7 +9,7 @@ _Attributes_
 
 _Methods_
 1. cook: isHot = true
-2. changeOrder: "italian"
+2. changeOrder: dishType = "italian"
 3. orderDessert: price = 15.00
 4. leaveReview: rating = 5
-5. addSilverware: ["fork", "knife", "spoon"]
+5. addSilverware: silverware = ["fork", "knife", "spoon"]
